@@ -1,0 +1,13 @@
+# rgb-aquarium
+This repo contains RGB Matrix Acquarium Simulations. Designed to be run on the Raspberry Pi, using https://github.com/hzeller/rpi-rgb-led-matrix.
+
+
+
+TODO:
+
+Working on vectors.py so we can represent position and directions.
+Working on dots.py to use the vectors to wander around.
+    Then give them tails.
+    Then make them aware of each other.
+    Then make the big ones chase small ones.
+    Then make them eat them and get longer.
